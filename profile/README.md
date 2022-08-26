@@ -1,5 +1,11 @@
 ## Hi there 👋
 
-Readme under construction :)
+As of August 26th, 2022, the Twitch Extension showcasing StarCraft II seasonal data is no longer available.
 
-https://www.sc2pte.eu/
+Source code of the project is still available.
+
+Related open source projects that aren't marked as archived are still maintained and will be maintained for as long as Blizzard offers community APIs for their games.
+
+You can read the project story here: https://www.offbeatbits.com/how-to-change-your-life-with-twitch-and-starcraft-vol-1/
+
+Thank you for using the extension!
