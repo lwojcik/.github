@@ -2,7 +2,7 @@
 
 As of August 26th, 2022, the Twitch Extension showcasing StarCraft II seasonal data is no longer available.
 
-Source code of the project is still available.
+Source code of the project is still there for historical purposes.
 
 Related open source projects that aren't marked as archived are still maintained and will be maintained for as long as Blizzard offers community APIs for their games.
 
